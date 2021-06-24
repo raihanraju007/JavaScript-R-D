@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+<<<<<<< HEAD
+      <module fileurl="file://$PROJECT_DIR$/.idea/JavaScript-R-D.iml" filepath="$PROJECT_DIR$/.idea/JavaScript-R-D.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/JavaScript.iml" filepath="$PROJECT_DIR$/.idea/JavaScript.iml" />
+>>>>>>> 85aa42baa73fa706cc9c2f81c65bc45ed23a17bc
+    </modules>
+  </component>
+</project>
